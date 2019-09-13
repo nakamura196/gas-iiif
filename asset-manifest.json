@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gas-iiif/static/css/main.0dcb9c6e.chunk.css",
+    "main.js": "/gas-iiif/static/js/main.adb6e597.chunk.js",
+    "main.js.map": "/gas-iiif/static/js/main.adb6e597.chunk.js.map",
+    "runtime~main.js": "/gas-iiif/static/js/runtime~main.82c9b7d7.js",
+    "runtime~main.js.map": "/gas-iiif/static/js/runtime~main.82c9b7d7.js.map",
+    "static/js/2.b5a941cf.chunk.js": "/gas-iiif/static/js/2.b5a941cf.chunk.js",
+    "static/js/2.b5a941cf.chunk.js.map": "/gas-iiif/static/js/2.b5a941cf.chunk.js.map",
+    "index.html": "/gas-iiif/index.html",
+    "precache-manifest.b88b97958731033f97fc47a0f99e6413.js": "/gas-iiif/precache-manifest.b88b97958731033f97fc47a0f99e6413.js",
+    "service-worker.js": "/gas-iiif/service-worker.js",
+    "static/css/main.0dcb9c6e.chunk.css.map": "/gas-iiif/static/css/main.0dcb9c6e.chunk.css.map",
+    "static/media/font-awesome.min.css": "/gas-iiif/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/nucleo.css": "/gas-iiif/static/media/nucleo-icons.f82ec6ba.ttf"
+  }
+}
